@@ -1,0 +1,117 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    color: #222222;
+}
+
+.container {
+    border: 2px #222222 solid;
+    margin: 20px auto 40px auto;
+    max-width: 1400px;
+    padding: 30px;
+}
+
+header {
+    text-align: center;
+}
+
+.color-container-blue {
+    background-color: #0065BD;
+    text-align: center;
+    padding: 10px;
+    min-width: 25%;
+    min-height: 80px;
+    display: inline-block;
+    border: 1px solid #222222;
+    margin: 40px 20px;
+}
+
+.color-container-white {
+    background-color: #FFFDFD;
+    text-align: center;
+    padding: 10px;
+    min-width: 25%;
+    min-height: 80px;
+    display: inline-block;
+    border: 1px solid #222222;
+    margin: 40px 20px;
+}
+
+.color-container-black {
+    background-color: #222222;
+    text-align: center;
+    padding: 10px;
+    min-width: 25%;
+    min-height: 80px;
+    display: inline-block;
+    border: 1px solid #222222;
+    margin: 40px 20px;
+}
+
+.color-container-cyan {
+    background-color: #2EC4B6;
+    text-align: center;
+    padding: 10px;
+    min-width: 25%;
+    min-height: 80px;
+    display: inline-block;
+    border: 1px solid #222222;
+    margin: 40px 20px;
+}
+
+.color-container-red {
+    background-color: #E71D36;
+    text-align: center;
+    padding: 10px;
+    min-width: 25%;
+    min-height: 80px;
+    display: inline-block;
+    border: 1px solid #222222;
+    margin: 40px 20px;
+}
+
+.white_text {
+    color: #FFFDFD;
+}
+
+#montserrat_bold {
+    font-weight: 800;
+}
+
+#montserrat_italic {
+    font-style: italic;
+}
+
+#mulish_regular {
+    font-family: 'Mulish', sans-serif;
+}
+
+#mulish_bold {
+    font-family: 'Mulish', sans-serif;
+    font-weight: 700;
+}
+
+#mulish_italic {
+    font-family: 'Mulish', sans-serif;
+    font-style: italic;
+}
+
+#slabo_regular {
+    font-family: 'Slabo 27px', serif;
+}
+
+.font-block {
+    display: inline-block;
+    width: 30%;
+    vertical-align: text-top;
+    font-size: 17px;
+    text-align: left;
+    margin: 20px;
+}
+
+.font-block-headings {
+    display: inline-block;
+    width: 20%;
+    vertical-align: text-top;
+    text-align: left;
+    margin: 20px;
+}
